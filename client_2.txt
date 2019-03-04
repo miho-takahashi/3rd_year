@@ -1,0 +1,17 @@
+情報実験Ⅰ 第9回 課題2
+BP16057 高橋 美帆
+
+[bp16057@localhost 2]$ ./client
+Connection established: socket 3 used.
+duck
+アヒル
+horse
+馬
+pig
+豚
+rat
+鼠
+shibaura
+Not found.
+bear
+熊

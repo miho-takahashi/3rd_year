@@ -1,0 +1,13 @@
+情報実験Ⅰ 第9回 課題1
+BP16057 高橋 美帆
+
+[bp16057@localhost 1]$ ./client
+Connection established: socket 3 used.
+aa
+AA
+AA
+aa
+thisisapen
+THISISAPEN
+SHIBAURA
+shibaura
